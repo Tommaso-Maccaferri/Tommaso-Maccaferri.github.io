@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "*Revaluation of “The China Syndrome” (Autor et al.)\n*West Germany Postwar Growth: Human Capital & Immigration"
+  },
+  {
+    "objectID": "projects.html#most-recent-projects-masters-degree",
+    "href": "projects.html#most-recent-projects-masters-degree",
+    "title": "Projects",
+    "section": "",
+    "text": "*Revaluation of “The China Syndrome” (Autor et al.)\n*West Germany Postwar Growth: Human Capital & Immigration"
+  },
+  {
+    "objectID": "projects.html#project-archive-bachelors-degree",
+    "href": "projects.html#project-archive-bachelors-degree",
+    "title": "Projects",
+    "section": "Project Archive (Bachelor’s degree)",
+    "text": "Project Archive (Bachelor’s degree)\n\nData Analysis & Economics\n*Flight Fares Price Variation\n*In-dept Analisys on best Masters of Science inManagemnt worldwide\n*Investigating the correlation between Tertiary Education and Life Expectancy\nStrategy & Management *Amsterdam’s Circular Economy Plan\n*McDonald’s Functional Analysis\n*Understanding Corporate Finance through the lens of Cairn Homes PLC annual report"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tommaso Maccaferri",
+    "section": "",
+    "text": "Research Master’s Student @MaastrichtU | Quantitative Macro-Economist. Analyzing real-world data with R, Stata, Julia & C++.\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
