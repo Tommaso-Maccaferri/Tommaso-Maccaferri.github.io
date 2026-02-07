@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs  
+
+website:
+  title: "Tommaso Maccaferri"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: CV & Bio
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tuo-profilo
+      - icon: github
+        href: https://github.com/Tommaso-Maccaferri
+
+format:
+  html:
+    theme: cosmo  
+    toc: true

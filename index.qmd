@@ -1,0 +1,25 @@
+---
+title: "Tommaso Maccaferri"
+about:
+  template: jolla
+  image: Tommaso Maccaferri Portait Photo.jpg 
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/
+    - icon: github
+      text: Github
+      href: https://github.com/Tommaso-Maccaferri
+---
+
+Research Master's Student @MaastrichtU | Quantitative Macro-Economist. Analyzing real-world data with R, Stata, Julia & C++.
+
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

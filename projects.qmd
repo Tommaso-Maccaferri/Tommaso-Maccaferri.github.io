@@ -1,0 +1,27 @@
+---
+title: "Projects"
+editor: visual
+---
+
+## **Most recent Projects (Master's Degree)**
+
+\*[Revaluation of "The China Syndrome" (Autor et al.)](https://github.com/Tommaso-Maccaferri/Autor-China-syndrome-replication)
+
+\*[West Germany Postwar Growth: Human Capital & Immigration](https://github.com/Tommaso-Maccaferri/West-Germany-growth-accounting-julia)
+
+## **Project Archive (Bachelor's degree)**
+
+### **Data Analysis & Economics**
+
+\*[Flight Fares Price Variation](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Flight%20Fres%20Price%20Variation%20Analysis.pdf)
+
+\*[In-dept Analisys on best Masters of Science inManagemnt worldwide](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/In-dept%20Analisys%20on%20best%20Masters%20of%20Science%20inManagemnt%20worldwide.pdf)
+
+\*[Investigating the correlation between Tertiary Education and Life Expectancy](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Investigating%20the%20correlation%20between%20Tertiary%20Education%20and%20Life%20Expectancy.pdf)
+
+**Strategy & Management**
+\*[Amsterdam's Circular Economy Plan](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Analysis%20of%20the%20City%20of%20Amsterdam%E2%80%99s%20Circular%20Economy%20Strategy%20Using%20Bryson%E2%80%99s%20Model.pdf)
+
+\*[McDonald's Functional Analysis](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/The%20Functional%20Analysis%20of%20McDonald%E2%80%99s.pdf)
+
+\*[Understanding Corporate Finance through the lens of Cairn Homes PLC annual report](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Understanding%20Corporate%20Finance%20through%20the%20lens%20of%20Cairn%20Homes%20PLC%20annual%20report.pdf)
