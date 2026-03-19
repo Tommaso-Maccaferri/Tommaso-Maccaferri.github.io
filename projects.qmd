@@ -1,0 +1,111 @@
+---
+title: "Research Projects"
+---
+
+## Master's Degree Projects
+
+### [Revaluation of "The China Syndrome" (Autor et al.)](https://github.com/Tommaso-Maccaferri/Autor-China-syndrome-replication)
+
+**Empirical Econometrics I \| Grade: 8.5/10 \| Maastricht University**
+
+A comprehensive replication and critical revaluation of Autor, Dorn, and Hanson's seminal 2013 paper on the impact of Chinese import competition on U.S. local labor markets.
+
+**Key Contributions:**
+
+-   Fully replicated the original identification strategy, converting **1,500+ lines of STATA code into R**
+-   Implemented **exposure-robust standard errors** following Borusyak et al. (2022) for improved statistical inference
+-   Critically assessed instrument relevance (F-statistics \> 100) and exogeneity assumptions underlying the shift-share design
+-   Extended the empirical specification with **five additional models** to evaluate potential omitted variable bias, lag structure choices, and fixed-effects design
+-   Reassessed statistical inference using clustered and exposure-robust standard errors, discussing implications for significance and economic interpretation
+-   Provided a structured methodological critique of the original specification choices and their impact on inferential validity
+
+**Impact:** Findings aligned with ongoing debates on shift-share identification and exposure-based inference in trade literature. Validated key coefficients 12 years after original publication while extending the analysis timeframe.
+
+**Tools:** R (Tidyverse, AER, lmtest, sandwich, modelsummary) \| **Methods:** IV estimation, shift-share designs, panel data analysis, exposure-robust inference
+
+------------------------------------------------------------------------
+
+### [West Germany Postwar Growth: Human Capital & Immigration](https://github.com/Tommaso-Maccaferri/West-Germany-growth-accounting-julia)
+
+**Macroeconomics I \| Grade: 8.5/10 \| Maastricht University**
+
+An econometric decomposition of West Germany's remarkable postwar economic recovery, the "Wirtschaftswunder" (1950-1990), with particular focus on the relative contributions of human capital accumulation and immigration to GDP growth.
+
+**Key Contributions:**
+
+-   Constructed a **harmonized historical dataset from 11 archival time series** to analyze drivers of the Wirtschaftswunder
+-   Developed and calibrated **five alternative growth-accounting frameworks** beyond the baseline Cobb-Douglas specification
+-   Implemented **modern calibration procedures in Julia (1,000+ lines of code)** to infer latent investment, human capital, and migration dynamics not directly observed in available data
+-   Compared explanatory power across model structures, highlighting the relative contribution of immigration and human capital accumulation to postwar growth
+-   Results offer quantitative insight into long-run growth dynamics in postwar reconstruction contexts
+
+**Impact:** Provides new empirical evidence on the drivers of economic miracles, with implications for development economics and migration policy.
+
+**Tools:** Julia (DataFrames.jl, GLM.jl), PlutoNotebook \| **Methods:** Growth accounting, productivity decomposition, historical data analysis, calibration techniques
+
+------------------------------------------------------------------------
+
+## Bachelor's Degree Projects
+
+### Data Analysis & Economics
+
+#### [Flight Fares Price Variation Analysis](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Flight%20Fres%20Price%20Variation%20Analysis.pdf)
+
+**Programming Lab I \| University of Bologna**
+
+Statistical analysis of pricing patterns in the airline industry, examining factors influencing fare variations across routes, seasons, and booking times. Analysis of price volatility in the airline market using regression modeling.
+
+**Tools:** R \| **Methods:** Regression analysis, data visualization, descriptive statistics
+
+------------------------------------------------------------------------
+
+#### [In-depth Analysis on Best Masters of Science in Management Worldwide](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/In-dept%20Analisys%20on%20best%20Masters%20of%20Science%20inManagemnt%20worldwide.pdf)
+
+**Big Data in Social Sciences \| University of Bologna**
+
+Comprehensive ranking and evaluation study of top management master's programs globally, analyzing admission criteria, curriculum design, career outcomes, and student preferences using large-scale data collection and multi-criteria analysis.
+
+**Tools:** R, Excel \| **Methods:** Multi-criteria analysis, data scraping, statistical analysis of student preferences
+
+------------------------------------------------------------------------
+
+#### [Investigating the Correlation between Tertiary Education and Life Expectancy](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Investigating%20the%20correlation%20between%20Tertiary%20Education%20and%20Life%20Expectancy.pdf)
+
+**Programming Lab II \| University of Bologna**
+
+Cross-country empirical study examining the relationship between higher education attainment and population health outcomes. Global data study exploring the correlation between tertiary education levels and life expectancy across countries.
+
+**Tools:** Stata \| **Methods:** Cross-sectional regression, correlation analysis, international comparative analysis
+
+------------------------------------------------------------------------
+
+### Strategy & Management
+
+#### [Amsterdam's Circular Economy Plan](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Analysis%20of%20the%20City%20of%20Amsterdam%E2%80%99s%20Circular%20Economy%20Strategy%20Using%20Bryson%E2%80%99s%20Model.pdf)
+
+Strategic analysis of Amsterdam's circular economy initiatives using Bryson's strategic planning framework, evaluating implementation challenges, stakeholder engagement, and policy effectiveness.
+
+------------------------------------------------------------------------
+
+#### [McDonald's Functional Analysis](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/The%20Functional%20Analysis%20of%20McDonald%E2%80%99s.pdf)
+
+Organizational analysis examining McDonald's business functions, operational efficiency, and strategic positioning in the fast-food industry. Comprehensive study of a global organizational giant.
+
+------------------------------------------------------------------------
+
+#### [Understanding Corporate Finance through Cairn Homes PLC Annual Report](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Understanding%20Corporate%20Finance%20through%20the%20lens%20of%20Cairn%20Homes%20PLC%20annual%20report.pdf)
+
+Financial statement analysis and valuation study of Cairn Homes PLC, applying corporate finance principles to real-world financial data and annual reporting.
+
+------------------------------------------------------------------------
+
+## Research Philosophy
+
+All my projects emphasize:
+
+-   **Reproducibility**: Complete code and data publicly available on GitHub
+-   **Methodological Rigor**: Careful attention to identification strategies and econometric specification
+-   **Transparency**: Detailed documentation and clear communication of assumptions
+-   **Replication**: Testing robustness of influential papers and extending their findings
+
+*Visit my [GitHub repositories](https://github.com/Tommaso-Maccaferri) to explore the full code, data, and documentation for each project.*

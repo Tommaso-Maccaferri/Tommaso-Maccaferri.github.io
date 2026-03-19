@@ -1,0 +1,184 @@
+---
+title: "CV & Biography"
+---
+
+## Education
+
+### **Research Master's in Economic and Financial Research**
+**Maastricht University** | September 2025 - Present | Maastricht, Netherlands
+
+**GPA: 8.0/10**
+
+Intensive research-oriented program combining advanced economic theory, econometrics, and computational methods. Focused on macroeconomics, labor economics, and empirical analysis with emphasis on causal inference and quantitative historical analysis.
+
+**Selected Coursework:** Advanced Macroeconomics, Empirical Econometrics, Computational Economics, Growth & Development Economics
+
+---
+
+### **Bachelor's Degree in Economics, Politics and Social Sciences**
+**Alma Mater Studiorum – University of Bologna** | September 2022 - July 2025 | Bologna, Italy
+
+**GPA: 28.7/30 | Final Grade: 110 cum laude/110**
+
+Comprehensive economics education with strong emphasis on quantitative methods, data analysis, and interdisciplinary approaches to economic problems. Problem-Based Learning approach with extensive group work and independent research.
+
+**Graduation Date:** July 24, 2025
+
+---
+
+### **Erasmus Program in Business Administration and Marketing**
+**Technological University Dublin (TUD)** | January 2024 - May 2024 | Dublin, Ireland
+
+**GPA: 82/100**
+
+International exchange semester focusing on business administration, marketing strategies, and cross-cultural management in a diverse European context.
+
+---
+
+## Technical Skills
+
+### Statistical Software
+- **R** (Advanced): Quarto, tidyverse, dplyr, AER, lmtest, sandwich, factoextra, ggplot2, modelsummary
+- **STATA** (Medium): Panel data analysis, IV estimation, econometric modeling
+- **Julia & PlutoNotebook** (Medium): High-performance numerical computing, growth accounting, calibration methods
+
+### Programming Languages
+- **C++** (Medium): Algorithmic problem-solving, computational efficiency
+- **Python** (Basic): Data manipulation, basic econometrics
+
+### Data Analysis & Econometrics
+- Panel data analysis and fixed effects models
+- Instrumental variables and causal inference (shift-share designs, difference-in-differences)
+- Time series analysis and forecasting
+- Growth accounting and productivity decomposition
+- Replication studies and robustness checks
+- Exposure-robust inference methods
+
+### Tools & Technologies
+- Git/GitHub (version control, collaboration, reproducible research)
+- LaTeX (academic writing and presentations)
+- Quarto/R Markdown (dynamic documents and reports)
+- Microsoft Excel (financial modeling, data analysis)
+
+---
+
+## Professional Experience
+
+### **Roadhouse Steakhouse & Fradiavolo Pizzeria**
+**Waiter** | November 2024 - July 2025 | Bologna, Italy | 20 hours/week
+
+- Provided high-quality customer service in fast-paced restaurant environment
+- Coordinated operations between floor service and kitchen staff
+- Built and maintained strong customer relationships, ensuring positive dining experiences
+
+---
+
+### **Primark**
+**Warehouse Operator** | August 2024 - November 2024 | Bologna, Italy | 18 hours/week
+
+- Executed assigned warehouse operations in coordination with retail departments
+- Collaborated in maintenance of warehouse inventory exceeding 10,000 products
+- Managed daily inventory system updates and processing of incoming orders
+
+---
+
+### **Fradiavolo Pizzeria**
+**Team Leader** | February 2023 - January 2024 | Bologna, Italy | 24 hours/week
+
+- Supported management of team of over 20 employees
+- Improved customer care and online ratings from 3.3 to 3.9 on Google
+- Managed daily cash flows, payments, and deposits totaling approximately €2,000
+- Coordinated daily food supply orders and employee shift scheduling
+
+---
+
+## Leadership & Volunteering
+
+### **Associate Member**
+**Negotiation Project Maastricht** | 2025/2026
+
+Active participant in student-led negotiation and conflict resolution initiatives at Maastricht University.
+
+---
+
+### **International Volunteer Work**
+
+**Wadi Rum Tourist Camp** | Jordan | 2023
+
+Contributed to development of desert tourist camp by providing infrastructural and marketing support for sustainable tourism initiatives.
+
+**Bacho Catholic Clinic** | Ethiopia | 2017
+
+Contributed to community healthcare development initiatives and facility support in underserved regions.
+
+**Siuyu Children's Rehabilitation Centre** | Tanzania | 2015
+
+Provided assistance and support for children in vulnerable conditions at rehabilitation facility.
+
+---
+
+## Languages
+
+- **Italian**: Native speaker
+- **English**: Full working proficiency (C1)
+- **Spanish**: Basic level proficiency (A2)
+- **Dutch**: Basic (A2)
+
+---
+
+## Skills & Certifications
+
+### Professional Certifications
+- **Customer NextGen Certificate** - Italian Private Banking Association (2024)
+- **HACCP Certification for Food Operators** - AISiLIA (2024)
+- **Worker Safety in Low-Risk Activities** - AISiLIA (2024)
+
+---
+
+## About Me
+
+I'm a quantitative economist passionate about understanding how economies grow and how large economic shocks affect real-world outcomes. My approach combines rigorous theoretical foundations with modern computational tools to tackle complex empirical questions.
+
+Currently pursuing a Research Master's at Maastricht University, I'm developing expertise in applied macroeconomics with focus on labor economics, monetary policy and banking, and economic history. I believe in the power of replication studies, transparent research, and making all code and data publicly available.
+
+### What Drives My Research
+
+I'm particularly interested in questions at the intersection of macroeconomics and empirical microeconomics:
+
+- How do large economic shocks (trade, technology, migration) affect local labor markets?
+- What factors drive long-run economic growth and productivity?
+- How can we rigorously test and extend influential economic theories?
+- What role do human capital and migration play in economic development?
+
+### My Research Approach
+
+I believe in:
+
+- **Reproducible Research**: All code and data publicly available on GitHub
+- **Methodological Rigor**: Careful attention to identification strategies and causal inference
+- **Replication Studies**: Testing robustness of influential papers and extending their findings
+- **Clear Communication**: Making complex econometric analysis accessible and transparent
+- **Continuous Learning**: Always exploring new methods, tools, and research questions
+
+### Beyond Economics
+
+My professional experience in hospitality and retail has taught me valuable lessons about teamwork, customer service, and operational management. My international volunteer work in Jordan, Ethiopia, and Tanzania has given me perspective on global development challenges and the importance of community-based interventions.
+
+When I'm not analyzing data or coding, you might find me exploring new programming techniques, reading economic history, following developments in labor economics and monetary policy, or discussing research ideas with fellow students and academics.
+
+---
+
+## Contact Information
+
+I'm always interested in discussing research, potential collaborations, or interesting economic questions. Feel free to reach out!
+
+- **Email**: tommaso.maccaferri@gmail.com
+- **University Email**: t.maccaferri@student.maastrichtuniversity.nl
+- **Phone**: +39 392 726 6717
+- **Address**: Kruisherengang 6C26, 6211NW Maastricht, Netherlands
+- **LinkedIn**: [tommaso-maccaferri-6bba44262](https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/)
+- **GitHub**: [Tommaso-Maccaferri](https://github.com/Tommaso-Maccaferri)
+
+---
+
+*This website is built with [Quarto](https://quarto.org/) and hosted on GitHub Pages. All source code and project repositories are publicly available on my GitHub profile.*

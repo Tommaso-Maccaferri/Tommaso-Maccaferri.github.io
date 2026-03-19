@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs  
+
+website:
+  title: "Tommaso Maccaferri"
+  description: "Research Master's Student in Economic and Financial Research | Quantitative Macroeconomist"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: CV & Bio
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/
+        aria-label: LinkedIn Profile
+      - icon: github
+        href: https://github.com/Tommaso-Maccaferri
+        aria-label: GitHub Profile
+  page-footer:
+    center: |
+      © 2025 Tommaso Maccaferri | Built with [Quarto](https://quarto.org) | [GitHub](https://github.com/Tommaso-Maccaferri)
+
+format:
+  html:
+    theme: cosmo  
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    smooth-scroll: true
+    code-copy: true
+    code-fold: false
+    code-tools: false
+    link-external-newwindow: true
+    link-external-icon: true
