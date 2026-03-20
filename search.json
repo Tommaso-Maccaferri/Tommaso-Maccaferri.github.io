@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CV & Biography",
+    "section": "",
+    "text": "Maastricht University | September 2025 - Present | Maastricht, Netherlands\nGPA: 8.0/10\nIntensive research-oriented program combining advanced economic theory, econometrics, and computational methods. Focused on macroeconomics, labor economics, and empirical analysis with emphasis on causal inference and quantitative historical analysis.\nSelected Coursework: Advanced Macroeconomics, Empirical Econometrics, Computational Economics, Growth & Development Economics\n\n\n\n\nAlma Mater Studiorum – University of Bologna | September 2022 - July 2025 | Bologna, Italy\nGPA: 28.7/30 | Final Grade: 110 cum laude/110\nComprehensive economics education with strong emphasis on quantitative methods, data analysis, and interdisciplinary approaches to economic problems. Problem-Based Learning approach with extensive group work and independent research.\nGraduation Date: July 24, 2025\n\n\n\n\nTechnological University Dublin (TUD) | January 2024 - May 2024 | Dublin, Ireland\nGPA: 82/100\nInternational exchange semester focusing on business administration, marketing strategies, and cross-cultural management in a diverse European context."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "CV & Biography",
+    "section": "",
+    "text": "Maastricht University | September 2025 - Present | Maastricht, Netherlands\nGPA: 8.0/10\nIntensive research-oriented program combining advanced economic theory, econometrics, and computational methods. Focused on macroeconomics, labor economics, and empirical analysis with emphasis on causal inference and quantitative historical analysis.\nSelected Coursework: Advanced Macroeconomics, Empirical Econometrics, Computational Economics, Growth & Development Economics\n\n\n\n\nAlma Mater Studiorum – University of Bologna | September 2022 - July 2025 | Bologna, Italy\nGPA: 28.7/30 | Final Grade: 110 cum laude/110\nComprehensive economics education with strong emphasis on quantitative methods, data analysis, and interdisciplinary approaches to economic problems. Problem-Based Learning approach with extensive group work and independent research.\nGraduation Date: July 24, 2025\n\n\n\n\nTechnological University Dublin (TUD) | January 2024 - May 2024 | Dublin, Ireland\nGPA: 82/100\nInternational exchange semester focusing on business administration, marketing strategies, and cross-cultural management in a diverse European context."
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "CV & Biography",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nStatistical Software\n\nR (Advanced): Quarto, tidyverse, dplyr, AER, lmtest, sandwich, factoextra, ggplot2, modelsummary\nSTATA (Medium): Panel data analysis, IV estimation, econometric modeling\nJulia & PlutoNotebook (Medium): High-performance numerical computing, growth accounting, calibration methods\n\n\n\nProgramming Languages\n\nC++ (Medium): Algorithmic problem-solving, computational efficiency\nPython (Basic): Data manipulation, basic econometrics\n\n\n\nData Analysis & Econometrics\n\nPanel data analysis and fixed effects models\nInstrumental variables and causal inference (shift-share designs, difference-in-differences)\nTime series analysis and forecasting\nGrowth accounting and productivity decomposition\nReplication studies and robustness checks\nExposure-robust inference methods\n\n\n\nTools & Technologies\n\nGit/GitHub (version control, collaboration, reproducible research)\nLaTeX (academic writing and presentations)\nQuarto/R Markdown (dynamic documents and reports)\nMicrosoft Excel (financial modeling, data analysis)"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "CV & Biography",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nRoadhouse Steakhouse & Fradiavolo Pizzeria\nWaiter | November 2024 - July 2025 | Bologna, Italy | 20 hours/week\n\nProvided high-quality customer service in fast-paced restaurant environment\nCoordinated operations between floor service and kitchen staff\nBuilt and maintained strong customer relationships, ensuring positive dining experiences\n\n\n\n\nPrimark\nWarehouse Operator | August 2024 - November 2024 | Bologna, Italy | 18 hours/week\n\nExecuted assigned warehouse operations in coordination with retail departments\nCollaborated in maintenance of warehouse inventory exceeding 10,000 products\nManaged daily inventory system updates and processing of incoming orders\n\n\n\n\nFradiavolo Pizzeria\nTeam Leader | February 2023 - January 2024 | Bologna, Italy | 24 hours/week\n\nSupported management of team of over 20 employees\nImproved customer care and online ratings from 3.3 to 3.9 on Google\nManaged daily cash flows, payments, and deposits totaling approximately €2,000\nCoordinated daily food supply orders and employee shift scheduling"
+  },
+  {
+    "objectID": "about.html#leadership-volunteering",
+    "href": "about.html#leadership-volunteering",
+    "title": "CV & Biography",
+    "section": "Leadership & Volunteering",
+    "text": "Leadership & Volunteering\n\nAssociate Member\nNegotiation Project Maastricht | 2025/2026\nActive participant in student-led negotiation and conflict resolution initiatives at Maastricht University.\n\n\n\nInternational Volunteer Work\nWadi Rum Tourist Camp | Jordan | 2023\nContributed to development of desert tourist camp by providing infrastructural and marketing support for sustainable tourism initiatives.\nBacho Catholic Clinic | Ethiopia | 2017\nContributed to community healthcare development initiatives and facility support in underserved regions.\nSiuyu Children’s Rehabilitation Centre | Tanzania | 2015\nProvided assistance and support for children in vulnerable conditions at rehabilitation facility."
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "CV & Biography",
+    "section": "Languages",
+    "text": "Languages\n\nItalian: Native speaker\nEnglish: Full working proficiency (C1)\nSpanish: Basic level proficiency (A2)\nDutch: Basic (A2)"
+  },
+  {
+    "objectID": "about.html#skills-certifications",
+    "href": "about.html#skills-certifications",
+    "title": "CV & Biography",
+    "section": "Skills & Certifications",
+    "text": "Skills & Certifications\n\nProfessional Certifications\n\nCustomer NextGen Certificate - Italian Private Banking Association (2024)\nHACCP Certification for Food Operators - AISiLIA (2024)\nWorker Safety in Low-Risk Activities - AISiLIA (2024)"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "CV & Biography",
+    "section": "About Me",
+    "text": "About Me\nI’m a quantitative economist passionate about understanding how economies grow and how large economic shocks affect real-world outcomes. My approach combines rigorous theoretical foundations with modern computational tools to tackle complex empirical questions.\nCurrently pursuing a Research Master’s at Maastricht University, I’m developing expertise in applied macroeconomics with focus on labor economics, monetary policy and banking, and economic history. I believe in the power of replication studies, transparent research, and making all code and data publicly available.\n\nWhat Drives My Research\nI’m particularly interested in questions at the intersection of macroeconomics and empirical microeconomics:\n\nHow do large economic shocks (trade, technology, migration) affect local labor markets?\nWhat factors drive long-run economic growth and productivity?\nHow can we rigorously test and extend influential economic theories?\nWhat role do human capital and migration play in economic development?\n\n\n\nMy Research Approach\nI believe in:\n\nReproducible Research: All code and data publicly available on GitHub\nMethodological Rigor: Careful attention to identification strategies and causal inference\nReplication Studies: Testing robustness of influential papers and extending their findings\nClear Communication: Making complex econometric analysis accessible and transparent\nContinuous Learning: Always exploring new methods, tools, and research questions\n\n\n\nBeyond Economics\nMy professional experience in hospitality and retail has taught me valuable lessons about teamwork, customer service, and operational management. My international volunteer work in Jordan, Ethiopia, and Tanzania has given me perspective on global development challenges and the importance of community-based interventions.\nWhen I’m not analyzing data or coding, you might find me exploring new programming techniques, reading economic history, following developments in labor economics and monetary policy, or discussing research ideas with fellow students and academics."
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "CV & Biography",
+    "section": "Contact Information",
+    "text": "Contact Information\nI’m always interested in discussing research, potential collaborations, or interesting economic questions. Feel free to reach out!\n\nEmail: tommaso.maccaferri@gmail.com\nUniversity Email: t.maccaferri@student.maastrichtuniversity.nl\nPhone: +39 392 726 6717\nAddress: Kruisherengang 6C26, 6211NW Maastricht, Netherlands\nLinkedIn: tommaso-maccaferri-6bba44262\nGitHub: Tommaso-Maccaferri\n\n\nThis website is built with Quarto and hosted on GitHub Pages. All source code and project repositories are publicly available on my GitHub profile."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tommaso Maccaferri",
+    "section": "",
+    "text": "Research Master’s student in Economic and Financial Research at Maastricht University, specializing in advanced econometric modeling, quantitative historical analysis, and policy evaluation. Previously graduated Cum Laude in Economics from the University of Bologna.\nI combine rigorous economic theory with computational methods to tackle complex real-world problems using R, Stata, Julia, and C++."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Tommaso Maccaferri",
+    "section": "",
+    "text": "Research Master’s student in Economic and Financial Research at Maastricht University, specializing in advanced econometric modeling, quantitative historical analysis, and policy evaluation. Previously graduated Cum Laude in Economics from the University of Bologna.\nI combine rigorous economic theory with computational methods to tackle complex real-world problems using R, Stata, Julia, and C++."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Tommaso Maccaferri",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nLabor Economics: Trade shocks, local labor markets, employment dynamics\nMonetary Policy and Banking: Financial markets, macroprudential regulation\nEconomic History: Postwar reconstruction, growth accounting, historical data analysis\nApplied Econometrics: Causal inference, panel data, shift-share designs, replication studies"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Tommaso Maccaferri",
+    "section": "Current Focus",
+    "text": "Current Focus\nMy recent work includes rigorous replication studies of seminal papers in trade economics and growth accounting analyses of historical economic miracles. I’m particularly interested in how large economic shocks—trade, technology, migration—affect local labor markets and their long-term effects on regional development.\nI believe in reproducible research: all my code and data are publicly available on GitHub, and I’m committed to methodological rigor and transparent analysis.\n\nExplore my Projects to see detailed examples of my research work, or check out my CV & Bio for more information about my academic background, professional experience, and skills."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Empirical Econometrics I | Grade: 8.5/10 | Maastricht University\nA comprehensive replication and critical revaluation of Autor, Dorn, and Hanson’s seminal 2013 paper on the impact of Chinese import competition on U.S. local labor markets.\nKey Contributions:\n\nFully replicated the original identification strategy, converting 1,500+ lines of STATA code into R\nImplemented exposure-robust standard errors following Borusyak et al. (2022) for improved statistical inference\nCritically assessed instrument relevance (F-statistics &gt; 100) and exogeneity assumptions underlying the shift-share design\nExtended the empirical specification with five additional models to evaluate potential omitted variable bias, lag structure choices, and fixed-effects design\nReassessed statistical inference using clustered and exposure-robust standard errors, discussing implications for significance and economic interpretation\nProvided a structured methodological critique of the original specification choices and their impact on inferential validity\n\nImpact: Findings aligned with ongoing debates on shift-share identification and exposure-based inference in trade literature. Validated key coefficients 12 years after original publication while extending the analysis timeframe.\nTools: R (Tidyverse, AER, lmtest, sandwich, modelsummary) | Methods: IV estimation, shift-share designs, panel data analysis, exposure-robust inference\n\n\n\n\nMacroeconomics I | Grade: 8.5/10 | Maastricht University\nAn econometric decomposition of West Germany’s remarkable postwar economic recovery, the “Wirtschaftswunder” (1950-1990), with particular focus on the relative contributions of human capital accumulation and immigration to GDP growth.\nKey Contributions:\n\nConstructed a harmonized historical dataset from 11 archival time series to analyze drivers of the Wirtschaftswunder\nDeveloped and calibrated five alternative growth-accounting frameworks beyond the baseline Cobb-Douglas specification\nImplemented modern calibration procedures in Julia (1,000+ lines of code) to infer latent investment, human capital, and migration dynamics not directly observed in available data\nCompared explanatory power across model structures, highlighting the relative contribution of immigration and human capital accumulation to postwar growth\nResults offer quantitative insight into long-run growth dynamics in postwar reconstruction contexts\n\nImpact: Provides new empirical evidence on the drivers of economic miracles, with implications for development economics and migration policy.\nTools: Julia (DataFrames.jl, GLM.jl), PlutoNotebook | Methods: Growth accounting, productivity decomposition, historical data analysis, calibration techniques"
+  },
+  {
+    "objectID": "projects.html#masters-degree-projects",
+    "href": "projects.html#masters-degree-projects",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Empirical Econometrics I | Grade: 8.5/10 | Maastricht University\nA comprehensive replication and critical revaluation of Autor, Dorn, and Hanson’s seminal 2013 paper on the impact of Chinese import competition on U.S. local labor markets.\nKey Contributions:\n\nFully replicated the original identification strategy, converting 1,500+ lines of STATA code into R\nImplemented exposure-robust standard errors following Borusyak et al. (2022) for improved statistical inference\nCritically assessed instrument relevance (F-statistics &gt; 100) and exogeneity assumptions underlying the shift-share design\nExtended the empirical specification with five additional models to evaluate potential omitted variable bias, lag structure choices, and fixed-effects design\nReassessed statistical inference using clustered and exposure-robust standard errors, discussing implications for significance and economic interpretation\nProvided a structured methodological critique of the original specification choices and their impact on inferential validity\n\nImpact: Findings aligned with ongoing debates on shift-share identification and exposure-based inference in trade literature. Validated key coefficients 12 years after original publication while extending the analysis timeframe.\nTools: R (Tidyverse, AER, lmtest, sandwich, modelsummary) | Methods: IV estimation, shift-share designs, panel data analysis, exposure-robust inference\n\n\n\n\nMacroeconomics I | Grade: 8.5/10 | Maastricht University\nAn econometric decomposition of West Germany’s remarkable postwar economic recovery, the “Wirtschaftswunder” (1950-1990), with particular focus on the relative contributions of human capital accumulation and immigration to GDP growth.\nKey Contributions:\n\nConstructed a harmonized historical dataset from 11 archival time series to analyze drivers of the Wirtschaftswunder\nDeveloped and calibrated five alternative growth-accounting frameworks beyond the baseline Cobb-Douglas specification\nImplemented modern calibration procedures in Julia (1,000+ lines of code) to infer latent investment, human capital, and migration dynamics not directly observed in available data\nCompared explanatory power across model structures, highlighting the relative contribution of immigration and human capital accumulation to postwar growth\nResults offer quantitative insight into long-run growth dynamics in postwar reconstruction contexts\n\nImpact: Provides new empirical evidence on the drivers of economic miracles, with implications for development economics and migration policy.\nTools: Julia (DataFrames.jl, GLM.jl), PlutoNotebook | Methods: Growth accounting, productivity decomposition, historical data analysis, calibration techniques"
+  },
+  {
+    "objectID": "projects.html#bachelors-degree-projects",
+    "href": "projects.html#bachelors-degree-projects",
+    "title": "Research Projects",
+    "section": "Bachelor’s Degree Projects",
+    "text": "Bachelor’s Degree Projects\n\nData Analysis & Economics\n\nFlight Fares Price Variation Analysis\nProgramming Lab I | University of Bologna\nStatistical analysis of pricing patterns in the airline industry, examining factors influencing fare variations across routes, seasons, and booking times. Analysis of price volatility in the airline market using regression modeling.\nTools: R | Methods: Regression analysis, data visualization, descriptive statistics\n\n\n\nIn-depth Analysis on Best Masters of Science in Management Worldwide\nBig Data in Social Sciences | University of Bologna\nComprehensive ranking and evaluation study of top management master’s programs globally, analyzing admission criteria, curriculum design, career outcomes, and student preferences using large-scale data collection and multi-criteria analysis.\nTools: R, Excel | Methods: Multi-criteria analysis, data scraping, statistical analysis of student preferences\n\n\n\nInvestigating the Correlation between Tertiary Education and Life Expectancy\nProgramming Lab II | University of Bologna\nCross-country empirical study examining the relationship between higher education attainment and population health outcomes. Global data study exploring the correlation between tertiary education levels and life expectancy across countries.\nTools: Stata | Methods: Cross-sectional regression, correlation analysis, international comparative analysis\n\n\n\n\nStrategy & Management\n\nAmsterdam’s Circular Economy Plan\nStrategic analysis of Amsterdam’s circular economy initiatives using Bryson’s strategic planning framework, evaluating implementation challenges, stakeholder engagement, and policy effectiveness.\n\n\n\nMcDonald’s Functional Analysis\nOrganizational analysis examining McDonald’s business functions, operational efficiency, and strategic positioning in the fast-food industry. Comprehensive study of a global organizational giant.\n\n\n\nUnderstanding Corporate Finance through Cairn Homes PLC Annual Report\nFinancial statement analysis and valuation study of Cairn Homes PLC, applying corporate finance principles to real-world financial data and annual reporting."
+  },
+  {
+    "objectID": "projects.html#research-philosophy",
+    "href": "projects.html#research-philosophy",
+    "title": "Research Projects",
+    "section": "Research Philosophy",
+    "text": "Research Philosophy\nAll my projects emphasize:\n\nReproducibility: Complete code and data publicly available on GitHub\nMethodological Rigor: Careful attention to identification strategies and econometric specification\nTransparency: Detailed documentation and clear communication of assumptions\nReplication: Testing robustness of influential papers and extending their findings\n\nVisit my GitHub repositories to explore the full code, data, and documentation for each project."
+  }
+]
