@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strategy & Management | Project Detail</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <a href="index.html" class="logo">Tommaso Maccaferri</a>
+        <div class="menu-toggle" id="mobile-menu">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <nav class="nav-menu">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="projects.html" class="active">Projects</a>
+            <a href="cv.html">CV & Bio</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <div class="header-right desktop-only">
+            <a href="https://linkedin.com/in/tommaso-maccaferri-6bba44262" target="_blank" class="social-icon"><i class="fa-brands fa-linkedin-in"></i></a>
+            <a href="https://github.com/Tommaso-Maccaferri" target="_blank" class="social-icon"><i class="fa-brands fa-github"></i></a>
+        </div>
+    </header>
+
+    <main>
+        <section class="container">
+            <div class="hero-bg hero-small">
+                <div class="hero-inner-padding">
+                    <h1>Strategy & Management Case Studies</h1>
+                </div>
+            </div>
+        </section>
+
+        <section class="container">
+            <div class="project-detail-wrapper">
+                
+                <div class="project-info-bar">
+                    <p><strong>Focus:</strong> Strategic Analysis, Management & Finance | <strong>Level:</strong> Bachelor's Degree</p>
+                </div>
+
+                <div class="project-content-text">
+                    <p class="project-intro">A collection of research papers and business cases focusing on strategic planning, organizational efficiency, and corporate financial health.</p>
+                    
+                    <h2>Amsterdam’s Circular Economy Plan</h2>
+                    <p>A strategic planning analysis of Amsterdam’s circular economy initiatives. The study utilizes <strong>Bryson’s framework</strong> to evaluate stakeholder engagement, environmental policy effectiveness, and the long-term feasibility of urban sustainability goals.</p>
+
+                    <h2>McDonald’s Functional Analysis</h2>
+                    <p>An in-depth organizational analysis of one of the world's most successful franchises. This study examines core business functions, the evolution of operational efficiency through standardization, and McDonald's strategic positioning in a changing global market.</p>
+
+                    <h2>Cairn Homes PLC Financial Analysis</h2>
+                    <p>A corporate finance study applying valuation principles to <strong>Cairn Homes PLC</strong>. The project involves a rigorous analysis of financial statements, annual reporting data, and market trends to assess the company’s financial health and growth potential.</p>
+                    
+                    <p class="project-tools"><strong>Skills:</strong> Strategic Planning, Financial Modeling, Stakeholder Management.</p>
+                </div>
+
+                <div class="project-footer">
+                    <a href="assets/pdf/revaluation-china-syndrome.pdf" target="_blank" class="btn btn-dark">
+                        <i class="fa-solid fa-file-pdf"></i> View Full PDF
+                    </a>
+                    <a href="https://github.com/Tommaso-Maccaferri/china-syndrome-replication" target="_blank" class="btn-github btn">
+                        <i class="fa-brands fa-github"></i> GitHub Repository
+                    </a>
+                </div>
+                
+                <div class="project-back-container">
+                    <a href="projects.html" class="btn-back-link">
+                        <i class="fa-solid fa-arrow-left"></i> Back to Projects
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-container">
+            <div class="footer-bottom">
+                <span>© 2025 Tommaso Maccaferri</span>
+                <span class="divider">|</span>
+                <a href="contact.html" class="footer-contact-link">Contact</a>
+                <span class="divider">|</span>
+                <div class="footer-socials">
+                    <a href="https://linkedin.com/in/tommaso-maccaferri-6bba44262" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://github.com/Tommaso-Maccaferri" target="_blank"><i class="fa-brands fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const menuToggle = document.getElementById('mobile-menu');
+        const navMenu = document.querySelector('.nav-menu');
+        menuToggle.addEventListener('click', () => {
+            navMenu.classList.toggle('active');
+            const icon = menuToggle.querySelector('i');
+            if (navMenu.classList.contains('active')) {
+                icon.classList.replace('fa-bars', 'fa-xmark');
+            } else {
+                icon.classList.replace('fa-xmark', 'fa-bars');
+            }
+        });
+    </script>
+</body>
+</html>
