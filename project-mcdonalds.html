@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>McDonald's Functional Analysis | Project Detail</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <a href="index.html" class="logo">Tommaso Maccaferri</a>
+        <div class="menu-toggle" id="mobile-menu">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <nav class="nav-menu">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="projects.html" class="active">Projects</a>
+            <a href="cv.html">CV & Bio</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <div class="header-right desktop-only">
+            <a href="https://linkedin.com/in/tommaso-maccaferri-6bba44262" target="_blank" class="social-icon"><i class="fa-brands fa-linkedin-in"></i></a>
+            <a href="https://github.com/Tommaso-Maccaferri" target="_blank" class="social-icon"><i class="fa-brands fa-github"></i></a>
+        </div>
+    </header>
+
+    <main>
+        <section class="container">
+            <div class="hero-bg hero-small">
+                <div class="hero-inner-padding">
+                    <h1>McDonald’s Functional Analysis</h1>
+                </div>
+            </div>
+        </section>
+
+        <section class="container">
+            <div class="project-detail-wrapper">
+                
+                <div class="project-info-bar">
+                    <p><strong>Course:</strong> Principles of Management 1 | <strong>Institution:</strong> Technological University Dublin (TUD)</p>
+                </div>
+
+                <div class="project-content-text">
+                    <p class="project-intro">An in-depth dive into the organizational architecture and strategic management of one of the world's most successful global franchises.</p>
+                    
+                    <h2>Project Overview</h2>
+                    <p>This project unpacks the corporate structure of McDonald's, focusing on how the multinational giant balances global standardization with local market adaptation (glocalization). It examines the core business functions that drive its operational supremacy.</p>
+
+                    <h2>Technical Approach</h2>
+                    <p>Through comprehensive organizational analysis, the report evaluates McDonald's supply chain logistics, human resource management, and marketing strategies. It highlights how efficiency is maintained across thousands of distinct international locations through rigid operational frameworks and continuous innovation.</p>
+                    
+                    <p class="project-tools"><strong>Skills:</strong> Organizational Design, Corporate Strategy, Functional Analysis, Operations Management.</p>
+                </div>
+
+                <div class="project-footer">
+                    <a href="assets/pdf/McDonalds_Functional_Analysis.pdf" target="_blank" class="btn btn-dark">
+                        <i class="fa-solid fa-file-pdf"></i> View Full PDF
+                    </a>
+                    <a href="https://github.com/Tommaso-Maccaferri/Bachelor-s-projects" target="_blank" class="btn-github btn">
+                        <i class="fa-brands fa-github"></i> GitHub Repository
+                    </a>
+                </div>
+                
+                <div class="project-back-container">
+                    <a href="projects.html" class="btn-back-link">
+                        <i class="fa-solid fa-arrow-left"></i> Back to Projects
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-container">
+            <div class="footer-bottom">
+                <span>© 2025 Tommaso Maccaferri</span>
+                <span class="divider">|</span>
+                <a href="contact.html" class="footer-contact-link">Contact</a>
+                <span class="divider">|</span>
+                <div class="footer-socials">
+                    <a href="https://linkedin.com/in/tommaso-maccaferri-6bba44262" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://github.com/Tommaso-Maccaferri" target="_blank"><i class="fa-brands fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const menuToggle = document.getElementById('mobile-menu');
+        const navMenu = document.querySelector('.nav-menu');
+        menuToggle.addEventListener('click', () => {
+            navMenu.classList.toggle('active');
+            const icon = menuToggle.querySelector('i');
+            if (navMenu.classList.contains('active')) {
+                icon.classList.replace('fa-bars', 'fa-xmark');
+            } else {
+                icon.classList.replace('fa-xmark', 'fa-bars');
+            }
+        });
+    </script>
+</body>
+</html>
