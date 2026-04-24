@@ -1225,6 +1225,7 @@ nav.nav-menu a:hover, nav.nav-menu a.active {
 
     .project-card img {
         height: 150px !important;
+        width: 300px;
     }
 
     .card-content {
